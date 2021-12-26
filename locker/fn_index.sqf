@@ -2,7 +2,8 @@
     File: fn_index.sqf
     Author: Julian Bauer (julianbauer@cationstudio.com)
 
-    Description: Checks if String in array and optional if number on position 2 is the same.   
+    Description:
+    Checks if String in array and optional if number on position 2 is the same.   
 */
 private["_string","_count","_itemOnIndex","_array","_return","_number"];
 _string = _this select 0;
