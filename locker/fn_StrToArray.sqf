@@ -1,6 +1,6 @@
 /*
     File: fn_StrToArray.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Code copied from KRON_Strings.sqf of Kronzky

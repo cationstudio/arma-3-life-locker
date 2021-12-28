@@ -1,6 +1,6 @@
 /*
     File: fn_refreshDialog.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Used as a refresher for locker inventory.

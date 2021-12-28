@@ -1,6 +1,6 @@
 /*
     File: fn_handleItemVehicle.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Takes items from vehicle / stores items in vehicle.

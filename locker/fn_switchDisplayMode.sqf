@@ -1,6 +1,6 @@
 /*
     File: fn_switchDisplayMode.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Switchs from player inventory to vehicle selection menu

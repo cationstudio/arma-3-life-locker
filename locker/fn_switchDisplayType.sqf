@@ -1,6 +1,6 @@
 /*
     File: fn_switchDisplayType.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Switches item categories    

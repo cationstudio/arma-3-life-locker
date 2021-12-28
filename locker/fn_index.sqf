@@ -1,6 +1,6 @@
 /*
     File: fn_index.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Checks if String in array and optional if number on position 2 is the same.   

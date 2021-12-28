@@ -1,6 +1,6 @@
 /*
     File: locker.hpp
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Dialog of locker system. 

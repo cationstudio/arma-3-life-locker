@@ -1,6 +1,6 @@
 /*
     File: fn_getText.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Returns text from config.

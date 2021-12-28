@@ -1,6 +1,6 @@
 /*
     File: fn_canStore.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Checks how many items can be stored to locker, player or vehicle.

@@ -1,6 +1,6 @@
 /*
     File: fn_query.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Sends a request out to the server to check for locker information.

@@ -1,6 +1,6 @@
 /*
     File: fn_updateTrunk.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Updates locker inventory in database.

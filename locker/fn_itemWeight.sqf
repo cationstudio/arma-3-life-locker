@@ -1,6 +1,6 @@
 /*
     File: fn_itemWeight.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Calculates weight of items

@@ -1,6 +1,6 @@
 /*
     File: fn_fetchLockerTrunkHC.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Fetches locker inventory from database.

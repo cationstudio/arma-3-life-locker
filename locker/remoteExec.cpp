@@ -1,6 +1,6 @@
 /*
     File: remoteExec.cpp
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Remote exec config file for locker system. 

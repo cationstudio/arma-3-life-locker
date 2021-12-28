@@ -1,6 +1,6 @@
 /*
     File: fn_initDialog.sqf
-    Author: Julian Bauer (julianbauer@cationstudio.com)
+    Author: Julian Bauer (julian.bauer@cationstudio.com)
 
     Description:
     Opens locker dialog   
