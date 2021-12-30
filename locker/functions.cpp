@@ -5,7 +5,6 @@
     Description:
     Function config for locker system. 
 */
-
 class Cation_Locker {
     tag = "cat_locker";
     class functions {
